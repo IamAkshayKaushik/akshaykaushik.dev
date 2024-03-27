@@ -1,15 +1,15 @@
 ---
-name: Raphaël Chelly
+name: Akshay Kaushik
 avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
-email: hi@raphaelchelly.com
-twitter: https://twitter.com/raphael_chelly
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+occupation: Python Developer
+company: Freelance
+email: hi@akshaykaushik.dev
+twitter: https://twitter.com/AkshaykKaushik
+linkedin: https://www.linkedin.com/in/iamakshaykaushik
+github: https://github.com/IamAkshayKaushik
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Graduated from a **Computer Science** at APJ AKTU, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of backend and seo, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my experiences.
 
 - [💼 Experience](#experience)
 - [🧑🏻‍💻 Side Project](#side-project)
@@ -19,98 +19,81 @@ Graduated from a **Master in Management** at Excelia Business School, I am passi
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Software Engineer - Freelance
 
-`Oct 2021 - Today`
+August 2021 - Today
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+- Developed and managed various web projects, including an entertainment news portal handling half a million visits per month on a single $6 droplet.
+- Delivered hundreads of web scraping scripts..
+- Increased entertainment news portal traffic by 400% through SEO optimization and
+  performance improvements.
+- Built a Text-to-Audio SaaS with Stripe integration, enabling users to convert text to speech with
+  a seamless payment process.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Backend Developer @ Bdsharma Consulting Pvt Ltd
 
-`Sept 2019 - Sept 2020`
+June 2019 - April 2020
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
-
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
-
-`Jan 2019 - Jul 2019`
-
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
-
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
-
-`Jul 2018 - Jan 2019`
-
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
-
-## Side Project
-
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
-
-`Sept 2017 - Today`
-
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
-
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+- As part of the team, I wrote an asychronous pdf scraper to extract old data to create backdated database records.
+- Transformed existing software to correct errors, upgrade interfaces, and improve efficiency.
+- Consulted regularly with teams on project status, proposals, and technical issues.
+- Cooperate diligently with other IT team members to plan, design, and develop smart solutions.
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Bachelor Of Technology @[Dr. A.P.J. Abdul Kalam Technical University](https://aktu.ac.in/)
 
 `Sept 2016 - Sept 2020`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+Graduate of bachelor of technology, specialising in Computer Science & Engineering.
 
 ## Skills
 
 ### Hard Skills:
 
-- 🇬🇧 English
-- 🇪🇸 Spanish
-- 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+- 🇮🇳 English
+- 🇮🇳 Hindi
+
+- 👨‍💻 **Programming Languages:** Python, JavaScript (ES6+)
+- 💻 **Backend:** Django, Django Rest Framework, Web Scraping, Selenium
+- 🛠️ **Tools & Technologies:** Celery, PostgreSQL, Process Queue, Redux, Stripe, SEO, Git, PM2 (Process
+  Manager)
+- 🎨 **Frontend:** React, NextJS, HTML5, Context API, TailwindCSS
+- 🌐 **CMS:** WordPress
+- 🐳 **Containerization:** Docker
+- 🗃️ **Messaging Systems:** RabbitMQ, Redis, Kafka
+- 🗄️ **Server:** Nginx, LiteSpeed
+- 🚀 **Optimization:** Caching, Compression, CDN, PageSpeed Insights, Apache Bench
 
 ### Soft Skills:
 
-- 🎨 Creative
 - 📚 Curious
+- 🎨 AI tools ready
 - 🤝🏼 Team Spirit
 
 ## Interests
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
+- 🏋🏻‍♀️ Fitness
 - 🏊🏼‍♂️ Swimming
 
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+|                                             |                                          |
+| ------------------------------------------- | ---------------------------------------- |
+| ![Bodybuilding](/static/images/fitness.jpg) | ![Swimming](/static/images/swimming.jpg) |
 
 ### Others:
 
-- 🗺️ Discovery and Traveling
-- 📷 Photography
-- 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
+- 🤖 Prompt Engineering
+- 🌏 Geopolitics
+- 🗺️ Traveling
 
-### Humanitarian:
+### Other Life Experiences:
 
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- **End of 2023:** Google update hit hard, then freelancing account closed too.
+- **2021:** Started freelancing.
+- **2020:** Started a few websites during covid, one scaled to 4M/yearly.
+- **2018:** One of the emerging writer on UC news - Service stopped.
+- **2017:** Youtuber - used to create Android related videos - Failed.
+- **2016:** Tried Amazon affiliate and dropshipping - Failed.
+- **2015:** Used to develop custom roms for Android - Just for Fun.
