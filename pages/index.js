@@ -26,10 +26,10 @@ export default function Home({ posts }) {
         <div className="flex flex-col-reverse items-start sm:flex-row">
           <div className="flex flex-col pr-8">
             <h1 className="mb-1 text-3xl font-bold tracking-tight text-zinc-800 dark:text-white md:text-5xl">
-              Raphaël Chelly
+              Akshay Kaushik
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Portfolio of a digital marketing guy who codes a bit.
+              Portfolio of a backend guy who codes a bit.
             </h2>
           </div>
           <div className="relative mb-8 mr-auto w-[100px] sm:mb-0 sm:w-[200px]">
@@ -39,68 +39,49 @@ export default function Home({ posts }) {
               width="200px"
               height="200px"
               className="rounded-full"
+              priority
             />
           </div>
         </div>
-        <p className="space-y-4 text-zinc-500 dark:text-slate-300">
+        <div className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Graduated from a Master in Management at{' '}
+            Graduated from Bachelor of Technology at{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-500 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-500 hover:decoration-sky-500/30 focus:text-blue-500 focus:ring-sky-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.excelia-group.com/"
-              rel="noreferrer"
+              href="https://aktu.ac.in/"
+              rel="noreferrer nofollow"
               target="_blank"
             >
-              Excelia Business School
+              APJ AKTU
             </a>
-            , I am passionate about digital, new technologies and Web3 projects. During my
-            professional experiences, I was able to discover many sectors of activity : Wines and
-            Spirits at{' '}
-            <a
-              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-blue-800 decoration-2 underline-offset-2 transition duration-100 hover:text-blue-800 hover:decoration-blue-800/30 focus:text-blue-500 focus:ring-blue-500/40 dark:text-white dark:decoration-sky-400 dark:hover:text-sky-400 dark:hover:decoration-sky-400/30 dark:focus:text-sky-400 dark:focus:ring-sky-400/40"
-              href="https://www.pernod-ricard.com/"
-              rel="noreferrer"
-              target="_blank"
-            >
-              Pernod Ricard
-            </a>{' '}
-            as a Digital Project Manager & New Technologies at{' '}
-            <a
-              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-green-500 decoration-2 underline-offset-2 transition duration-100 hover:text-green-500 hover:decoration-green-500/30 focus:text-lime-500 focus:ring-lime-500/40 dark:text-white dark:decoration-lime-400 dark:hover:text-lime-400 dark:hover:decoration-lime-400/30 dark:focus:text-lime-400 dark:focus:ring-lime-400/40"
-              href="https://www.microsoft.com/"
-              rel="noreferrer"
-              target="_blank"
-            >
-              Microsoft
-            </a>{' '}
-            as a Marketing Project Manager. Today I work in Bordeaux as a Marketing Project Manager
-            at{' '}
-            <a
-              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
-              href="https://www.octopia.com/"
-              rel="noreferrer"
-              target="_blank"
-            >
-              Octopia
-            </a>
-            . Besides that, I cofounded the communication agency{' '}
+            , I am passionate about new technologies and backend projects. During my professional
+            experiences, I was able to discover many sectors of activity : Python/JavaScript
+            development, web scraping, and Seo. Besides that, I cofounded the Entertainment website{' '}
             <a
               className="focusable rounded-sm font-medium text-zinc-800 underline decoration-violet-500 decoration-2 underline-offset-2 transition duration-100 hover:text-violet-500 hover:decoration-violet-500/30 focus:text-violet-500 focus:ring-violet-500/40 dark:text-white dark:decoration-violet-400 dark:hover:text-violet-400 dark:hover:decoration-violet-400/30 dark:focus:text-violet-400 dark:focus:ring-violet-400/40"
-              href="https://www.fabrilab.net/"
+              href="https://castalkie.com/"
               rel="noreferrer"
               target="_blank"
             >
-              Fabrilab
+              Castalkie
             </a>
-            , that I'm still working on. Versatile & curious in digital marketing, I am confident in
-            several aspects such as Social Media, SEO, E-CRM & Content creation.{' '}
+            , that I'm still working on. Versatile & curious in web development, I am confident in
+            several aspects such as development, speed, and content creation.{' '}
+            <Link
+              className="focusable rounded-sm font-medium text-zinc-800 underline decoration-sky-700 decoration-2 underline-offset-2 transition duration-100 hover:text-sky-700 hover:decoration-sky-500/30 focus:text-orange-500 focus:ring-sky-500/40 dark:text-white dark:decoration-blue-400 dark:hover:text-blue-400 dark:hover:decoration-blue-400/30 dark:focus:text-blue-400 dark:focus:ring-blue-400/40"
+              href="/about"
+              rel="noreferrer"
+            >
+              know about me
+            </Link>
+            .{' '}
           </p>
-        </p>
+        </div>
         <div className="mt-8 flex flex-wrap gap-4 text-center">
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://www.linkedin.com/in/raphaelchelly"
-            rel="noreferrer"
+            href="https://www.linkedin.com/in/iamakshaykaushik"
+            rel="noreferrer nofollow"
             target="_blank"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -115,8 +96,8 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-indigo-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-indigo-500/10 transition selection:bg-white/30 hover:bg-indigo-500/80 hover:shadow-indigo-500/5 focus:ring-indigo-500/40 dark:bg-indigo-400 dark:text-zinc-900 dark:shadow-indigo-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-indigo-400/80 dark:hover:shadow-indigo-400/5 dark:focus:ring-indigo-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://github.com/raphaelchelly"
-            rel="noreferrer"
+            href="https://github.com/IamAkshayKaushik"
+            rel="noreferrer nofollow"
             target="_blank"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -131,7 +112,7 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-lime-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-lime-500/10 transition selection:bg-white/30 hover:bg-lime-500/80 hover:shadow-lime-500/5 focus:ring-lime-500/40 dark:bg-lime-400 dark:text-zinc-900 dark:shadow-lime-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-lime-400/80 dark:hover:shadow-lime-400/5 dark:focus:ring-lime-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="mailto:hi@raphaelchelly.com"
+            href="mailto:hi@akshaykaushik.dev"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -145,8 +126,8 @@ export default function Home({ posts }) {
           </a>
           <a
             className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-blue-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-blue-500/10 transition selection:bg-white/30 hover:bg-blue-500/80 hover:shadow-blue-500/5 focus:ring-blue-500/40 dark:bg-blue-400 dark:text-zinc-900 dark:shadow-blue-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-blue-400/80 dark:hover:shadow-blue-400/5 dark:focus:ring-blue-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://twitter.com/raphael_chelly"
-            rel="noreferrer"
+            href="https://twitter.com/AkshaykKaushik"
+            rel="noreferrer nofollow"
             target="_blank"
           >
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -183,7 +164,7 @@ export default function Home({ posts }) {
           ))}
         </div>
       </div>
-      <div className="content mt-12 sm:mt-24">
+      {/* <div className="content mt-12 sm:mt-24">
         <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Experiences</h2>
         <ul className="mt-8">
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
@@ -319,7 +300,7 @@ export default function Home({ posts }) {
             </div>
           </li>
         </ul>
-      </div>
+      </div> */}
 
       {/* {siteMetadata.newsletter.provider !== '' && (
         <div className="flex items-center justify-center pt-4">
