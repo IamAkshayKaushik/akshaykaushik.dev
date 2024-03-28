@@ -1,11 +1,5 @@
 const projectsData = [
   {
-    title: 'A Text to Audio Generator',
-    description: `Django Fullstack application with Stripe Payment, Google OAuth Authentication, and backend API.`,
-    imgSrc: '/static/images/projects/text-to-audio-generator.png',
-    href: '/blog/projects/fabrilab-web-agency',
-  },
-  {
     title: 'GreatPeopleBios - A Biography Encyclopedia',
     description: `Scrapped Multiple websites Using Python, Cleaned this data, and Built a robust NextJs frontend with Django backend to showcase the data as articles.`,
     imgSrc: '/static/images/projects/greatpeoplebios.png',
@@ -15,7 +9,13 @@ const projectsData = [
     title: 'Castalkie - Upcoming Anime, TV Shows, Movies, Release Dates',
     description: `Wordpress blog optimized for high speed and less resource usage.`,
     imgSrc: '/static/images/projects/castalkie-full-page.jpeg',
-    href: '/blog/projects/total-energies',
+    href: 'https://castalkie.com',
+  },
+  {
+    title: 'A Text to Audio Generator',
+    description: `Django Fullstack application with Stripe Payment, Google OAuth Authentication, and backend API.`,
+    imgSrc: '/static/images/projects/text-to-audio-generator.png',
+    href: '/blog/projects/fabrilab-web-agency',
   },
 
   // {
