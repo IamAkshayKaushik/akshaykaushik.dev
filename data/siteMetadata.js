@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://akshaykaushik.dev/',
   siteRepo: 'https://github.com/IamAkshayKaushik/akshaykaushik.dev',
   siteLogo: '/static/images/raph-logo.png',
-  image: '/static/images/avatar.jpg',
+  image: '/static/images/avatar.svg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'hi@akshaykaushik.dev',
   github: 'https://github.com/IamAkshayKaushik',
