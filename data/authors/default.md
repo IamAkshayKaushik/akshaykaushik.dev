@@ -1,6 +1,6 @@
 ---
 name: Akshay Kaushik
-avatar: /static/images/avatar.jpg
+avatar: /static/images/avatar.svg
 occupation: Python Developer
 company: Freelance
 email: hi@akshaykaushik.dev
