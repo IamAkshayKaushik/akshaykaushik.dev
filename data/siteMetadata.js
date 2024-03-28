@@ -5,9 +5,9 @@ const siteMetadata = {
   description: 'Portfolio of a backend guy who codes a bit.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://akshaykaushik.dev/',
+  siteUrl: 'https://akshaykaushik.dev',
   siteRepo: 'https://github.com/IamAkshayKaushik/akshaykaushik.dev',
-  siteLogo: '/static/images/raph-logo.png',
+  siteLogo: '/static/images/twitter-card.png',
   image: '/static/images/avatar.svg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'hi@akshaykaushik.dev',
@@ -22,7 +22,7 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-YBS6CTTW3S', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-K0WHQ1XG31', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
